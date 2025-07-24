@@ -1,0 +1,7 @@
+JS/TS 
+Playwright
+WebdriverIO
+CI/CD
+Docker
+Git
+Оформление резюме
